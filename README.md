@@ -30,5 +30,6 @@ Clone the repository and install dependencies:
 git clone https://github.com/hidayatimrdiah/chatbot-sentiment.git
 cd sentiment-chatbot
 pip install -r requirements.txt
-launch jupyter notebook
+launch jupyter notebook from start menu
+navigate to project folder and open the notebook file
 run the notebook cells to see features
