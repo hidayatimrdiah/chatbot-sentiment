@@ -9,6 +9,9 @@ It classifies user input as **positive** or **negative sentiment** and responds 
 - Interactive chatbot UI powered by Gradio.
 - Confidence score displayed for predictions.
 
+## Download the dataset from this link : https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download
+## Extract the zip file and put it in the same folder as the project.
+
 ## Demo
 Run locally:
 
