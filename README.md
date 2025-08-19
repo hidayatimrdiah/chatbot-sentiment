@@ -7,6 +7,7 @@ It classifies user input as **positive** or **negative sentiment** and responds 
 - Preprocessing of text (removes mentions, URLs, punctuation).
 - Represented the preprocessed text using the Word2Vec technique. (Compared to Bag of Words technique)
 - Sentiment classification using Logistic Regression. (Compared to two other sentiment techniques : VADER and NaiveBayes)
+- A plotted bar graph to visualize which method has the highest accuracy for the chatbot.
 - Interactive chatbot UI powered by Gradio.
 - Confidence score displayed for predictions.
   
