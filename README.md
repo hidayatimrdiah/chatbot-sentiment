@@ -17,7 +17,12 @@ This project uses the [Sentiment140 dataset](https://www.kaggle.com/datasets/kaz
 1. Download the dataset from the link above.  
 2. Extract the ZIP file.  
 3. Place the extracted file in the same folder as the project.
-   
+
+## Prerequisites
+
+- Python 3.x installed
+- Jupyter Notebook installed
+
 ## Demo
 Clone the repository and install dependencies:
 
@@ -25,4 +30,5 @@ Clone the repository and install dependencies:
 git clone https://github.com/hidayatimrdiah/chatbot-sentiment.git
 cd sentiment-chatbot
 pip install -r requirements.txt
-python app.py
+launch jupyter notebook
+run the notebook cells to see features
