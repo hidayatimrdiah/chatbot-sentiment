@@ -1,4 +1,4 @@
-# Sentiment Analysis Chatbot 🤖
+# Sentiment Analysis Chatbot 
 
 A simple sentiment chatbot built with **Logistic Regression** and **Gradio UI**.  
 It classifies user input as **positive** or **negative sentiment** and responds conversationally.
@@ -8,12 +8,16 @@ It classifies user input as **positive** or **negative sentiment** and responds 
 - Sentiment classification using Logistic Regression. (Compared to two other sentiment techniques : VADER and NaiveBayes)
 - Interactive chatbot UI powered by Gradio.
 - Confidence score displayed for predictions.
+  
+## Dataset
+This project uses the [Sentiment140 dataset](https://www.kaggle.com/datasets/kazanova/sentiment140).  
 
-## Download the dataset from this link : https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download
-## Extract the zip file and put it in the same folder as the project.
-
+1. Download the dataset from the link above.  
+2. Extract the ZIP file.  
+3. Place the extracted file in the same folder as the project.
+   
 ## Demo
-Run locally:
+Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/hidayatimrdiah/chatbot-sentiment.git
